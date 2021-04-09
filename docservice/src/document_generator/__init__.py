@@ -1,0 +1,1 @@
+from .ocr_doc_generator import OCRDocumentGenerator
